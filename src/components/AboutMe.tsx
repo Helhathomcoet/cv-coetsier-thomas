@@ -24,13 +24,13 @@ function AboutMe() {
                                 </Typography>
                             </div>
                             <div style={{ display: "flex", justifyContent: "center", marginTop: "15px" }} >
-                                <img src="./cv-coetsier-thomas/Skills.png" alt="working" style={{ width: "50%", borderRadius: "10px", padding: "20px" }} />
+                                <img src="/cv-coetsier-thomas/Skills.png" alt="working" style={{ width: "50%", borderRadius: "10px", padding: "20px" }} />
                             </div>
                         </Grid>
                         <Grid item xs={12} md={6}>
                             <div style={{ display: "flex", justifyContent: "center", marginTop: "30px", marginLeft: '25px' }} >
 
-                                <img src="./cv-coetsier-thomas/at-work.jpg" alt="working" style={{ width: "100%", borderRadius: "20px" }} />
+                                <img src="/cv-coetsier-thomas/at-work.jpg" alt="working" style={{ width: "100%", borderRadius: "20px" }} />
                             </div>
                         </Grid>
                     </Grid>
@@ -39,7 +39,7 @@ function AboutMe() {
                             Je m'appelle Thomas Coetsier, j'ai 21 ans et je viens d'obtenir mon diplome de Bachelier (Bac +3) en Technologie de l'informatique. Je m'apprête à débuter mon parcours à Epitech en Master Msc-pro en spécialisation Big Data et Intelligence Artificielle.
                         </Typography>
                         <Typography variant="h6" mt={1} marginTop={"15px"}>
-                            Dans cette perspective, je suis à la recherche d'une opportunité d'alternance (idéalement dans les environs de Lille, Baisieux ou Villeneuve d'Ascq) pour renforcer mes compétences et acquérir davantage d'expérience dans ce domaine. Je suis ouvert à toutes les propositions, mais je suis particulièrement attiré par l'innovation, la recherche et le développement, que j'ai pu expérimenter lors d'un stage de 4 mois au
+                            Dans cette perspective, je suis à la recherche d'une opportunité d'alternance (idéalement dans les environs de Lille ou Villeneuve d'Ascq) pour renforcer mes compétences et acquérir davantage d'expérience dans ce domaine. Je suis ouvert à toutes les propositions, mais je suis particulièrement attiré par l'innovation, la recherche et le développement, que j'ai pu expérimenter lors d'un stage de 4 mois au
                             <a href="https://www.mic-belgique.be/" > MIC </a>
                             sur un projet de réalité mixte avec HoloLens 2. Je considère que mon véritable atout réside dans ma capacité d'adaptation rapide et ma facilité à maîtriser de nouvelles technologies.                        </Typography>
                         <Typography variant="h6" mt={1} marginTop={"15px"}>
