@@ -24,7 +24,7 @@ function Projects() {
     },
 
     {
-      img: "/cv-coetsier-thomas/PonyTail Survivor.jpg",
+      img: "/cv-coetsier-thomas/PonyTailSurvivor.jpg",
       title: "PonyTail Survivor",
       description: <div>
         <Typography variant="body1">

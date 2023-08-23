@@ -24,13 +24,13 @@ function AboutMe() {
                                 </Typography>
                             </div>
                             <div style={{ display: "flex", justifyContent: "center", marginTop: "15px" }} >
-                                <img src="./public/Skills.png" alt="working" style={{ width: "50%", borderRadius: "10px", padding: "20px" }} />
+                                <img src="./cv-coetsier-thomas/Skills.png" alt="working" style={{ width: "50%", borderRadius: "10px", padding: "20px" }} />
                             </div>
                         </Grid>
                         <Grid item xs={12} md={6}>
                             <div style={{ display: "flex", justifyContent: "center", marginTop: "30px", marginLeft: '25px' }} >
 
-                                <img src="./public/at-work.jpg" alt="working" style={{ width: "100%", borderRadius: "20px" }} />
+                                <img src="./cv-coetsier-thomas/at-work.jpg" alt="working" style={{ width: "100%", borderRadius: "20px" }} />
                             </div>
                         </Grid>
                     </Grid>
