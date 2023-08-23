@@ -20,7 +20,7 @@ function Projects() {
           N'hésitez pas à cliquer sur l'image pour découvrir une vidéo de ces trois applications en action.
         </Typography>
       </div>,
-      projectUrl: "lien-vers-projet-1",
+      projectUrl: "https://www.youtube.com/watch?v=PUqjoS3K74g",
     },
 
     {
@@ -58,7 +58,7 @@ function Projects() {
           Je vous encourage à consulter la vidéo dédiée au projet, même si elle a été créée dans un contexte scolaire. Elle vous offrira une meilleure compréhension du contenu et du fonctionnement de l'application.
         </Typography>
       </div>,
-      projectUrl: "lien-vers-projet-2",
+      projectUrl: "https://www.youtube.com/watch?v=k-mgw0894Fg",
     },
   ];
 
