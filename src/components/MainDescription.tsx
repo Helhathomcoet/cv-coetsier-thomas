@@ -54,14 +54,14 @@ export default function MainDescription() {
                     <Grid>
                         <Grid item xs={12} md={2}></Grid>
                         <Grid item xs={12} md={7.5}>
-                            <DownloadCvWidget logo={<DownloadIcon />} title="Télécharger mon CV" downloadUrl='public\CV Thomas Coetsier.pdf' />
+                            <DownloadCvWidget logo={<DownloadIcon />} title="Télécharger mon CV" downloadUrl='/cv-coetsier-thomas/CV Thomas Coetsier.pdf' />
                         </Grid>
                     </Grid>
 
 
                 </Grid>
                 <Grid item xs={12} md={4} style={{ display: 'flex', justifyContent: 'right', alignItems: 'right' ,opacity: isLoaded ? 1 : 0, transform: `translateX(${isLoaded ? 0 : '20px'})`, transition: 'opacity 0.5s ease-in-out, transform 0.5s ease-in-out'}}>
-                    <img src="public\Photo CV.jpg" alt="Photo de CV" style={{ width: '70%', height: 'auto', borderRadius: '100px' }} />
+                    <img src="/cv-coetsier-thomas/Photo CV.jpg" alt="Photo de CV" style={{ width: '70%', height: 'auto', borderRadius: '100px' }} />
                 </Grid>
                 <Grid item xs={12} md={2} />
 
