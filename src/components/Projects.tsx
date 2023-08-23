@@ -46,7 +46,7 @@ function Projects() {
       title: "KotApplication",
       
       description: <div>
-        <Typography variant="body1">
+        <Typography  variant="body1">
           "KotApplication" représente un projet mobile élaboré dans le cadre d'un cours axé sur le développement mobile. Ce projet nous a accordé une liberté créative pendant une période de deux mois, au cours de laquelle j'ai choisi de créer une application en Flutter. Ma réflexion rapide m'a conduite à identifier une niche intéressante : les colocations étudiantes, également appelées "Kot" en Belgique. Cette thématique me touchait personnellement et offrait la possibilité de tester activement mon application dans un contexte pertinent.
         </Typography>
         <br />
