@@ -6,7 +6,7 @@ body {
   margin: 0; /* Réinitialise les marges du corps */
   padding: 0; /* Réinitialise les rembourrages du corps */
   color: #ffffff;
-  background-image: url('.\\public\\assets\\oneshotBG.png');
+  background-image: url('.\\public\\oneshotBG.png');
 }
 
 
