@@ -5,7 +5,7 @@ import { Grid, Typography } from '@mui/material';
 function Projects() {
   const projects = [
     {
-      img: "./src/assets/HolOnBoard.jpg",
+      img: "./public/assets/HolOnBoard.jpg",
       title: "HolOnBoard",
       description: <div>
         <Typography variant="body1">
@@ -24,7 +24,7 @@ function Projects() {
     },
 
     {
-      img: "./src/assets/PonyTail Survivor.jpg",
+      img: "./public/assets/PonyTail Survivor.jpg",
       title: "PonyTail Survivor",
       description: <div>
         <Typography variant="body1">
@@ -42,7 +42,7 @@ function Projects() {
       projectUrl: "lien-vers-projet-3",
     },
     {
-      img: "./src/assets/KotApplication.jpg",
+      img: "./public/assets/KotApplication.jpg",
       title: "KotApplication",
       
       description: <div>
