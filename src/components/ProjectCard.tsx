@@ -38,6 +38,7 @@ function ProjectCard({ img, title, description, projectUrl, reversed }: ProjectC
   };
 
   const handleProjectClick = () => {
+    if(projectUrl == '') return console.log('No project url');
     projectUrl && window.open(projectUrl, "_blank");
   };
 

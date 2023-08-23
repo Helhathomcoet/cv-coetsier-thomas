@@ -39,7 +39,7 @@ function Projects() {
           Ce projet ambitieux nous a valu la deuxième place lors du hackathon, malgré notre petite équipe composée de seulement trois membres.
         </Typography>
       </div>,
-      projectUrl: "lien-vers-projet-3",
+      projectUrl: "",
     },
     {
       img: "/cv-coetsier-thomas/KotApplication.jpg",
