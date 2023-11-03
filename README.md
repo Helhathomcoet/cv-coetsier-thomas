@@ -28,5 +28,5 @@ KotApplication est une application mobile conçue pour la gestion de colocations
 
 N'hésitez pas à me contacter pour toute proposition de collaboration, opportunité d'alternance ou simplement pour discuter de projets intéressants. Vous pouvez me trouver sur [LinkedIn](https://www.linkedin.com/in/thomas-coetsier) et [GitHub](https://github.com/Helhathomcoet).
 
-![plot](./public/ScreenPortoflio.png)
+![plot](public/ScreenPortfolio.png)
 
